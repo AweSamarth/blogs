@@ -210,7 +210,7 @@ The people who have access to the main branch of a repo are called its owners. I
 GitHub is an amazing platform, no doubt. The only problem I see with it, as a Web3 developer, is that it is centralized. Though GitHub has always proved to be resistant to censorship, there is not telling when that may change. There are people trying this to solve this problem and one such solution is the Radicle protocol. It also uses git for version control. To see how to use it, head over to @[Olubisi Idris Ayinde](@olanetsoft)'s blog on it [here](https://web3.hashnode.com/how-to-build-and-push-projects-to-a-web3-decentralized-git-hosting-protocol-radicle). Note that it is currently does not support Windows. As much as I want to shift to decentralized solutions like Radicle, there is no denying the fact that GitHub is going to be more useful and relevant for the time-being. It is your one stop solution for finding open source projects and contributing to them. So, make sure you learn it well and put it to good use!
 
 # Additional Resources
-@[Kunal Kushwaha](@kunalk)'s [video on Git and GitHub](https://www.youtube.com/watch?v=apGV9Kg7ics), which is where I started (back in January-Feb of this year) as well!
+@[Kunal Kushwaha](@kunalk)'s [video on Git and GitHub](https://www.youtube.com/watch?v=apGV9Kg7ics), which is where I started (back in Jan-Feb of this year) as well!
 
 
 [Git Cheatsheet made by GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf) which you can refer to any time you need a refresher

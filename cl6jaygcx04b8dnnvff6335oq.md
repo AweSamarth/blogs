@@ -38,7 +38,7 @@ You should be getting something like this
 
 
 # Creating A GitHub Repository
-A repository is like a folder in a version control system. If you want to upload your version history and code to GitHub, you need:
+A repository is a folder in a version control system. If you want to upload your version history and code to GitHub, you need:
 - Git on you machine
 - A GitHub account
 - An Internet Connection (duh)

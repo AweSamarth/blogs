@@ -10,7 +10,7 @@ Git is a free and open source version control system born in 2005. It is relevan
 ### Branches
 Branching is one of the most goated 🐐🐐 features of git and is the main reason why companies, organizations and teams use it in the first place. By default, the branch in which we make all our changes is called the 'main' branch. If we want to mess with our code in a separate environment without breaking our code in the main branch, we can create new branches and do what we want there. We can then merge our changes with the main branch as well if we want to. 
 
-# What is GitHub And How Is It Different From Git?
+# What is GitHub And How is It Different From Git?
 
 ![25231.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659810629218/0edO1dIt0.png align="left")
 

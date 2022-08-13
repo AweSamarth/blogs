@@ -161,15 +161,16 @@ This command can be used to make a new branch and switch to it. If the branch al
 ### fetch
 It **just shows** the changes that are present in the remote repository but not in the local one. It does not apply the changes to the local repo.
 ```sh
-git fetch
+git fetch origin main
 ```
 
 ### pull
 It *retrieves* the changes that are present in the remote repo but not in the local one. It applies the changes to the local repo.
 
 ```sh
-git pull 
+git pull origin main
 ```
+In the above two examples, origin is the remote repository on GitHub and main is the branch that we are working on locally and want to push the remote repo.
 
 ### revert
 This command can be used for reverting the changes that we have committed. **We have to be very careful while reverting our changes** because if we're reckless about it, things can escalate real quickly as we may end up deleting our files! Always be 100% alert when trying to revert. A simple method of reverting to the state our repo was in before the latest commit is as shown:

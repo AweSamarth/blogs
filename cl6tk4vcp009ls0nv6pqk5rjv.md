@@ -1,4 +1,4 @@
-## How to make a Colour Scheme generator using The Color API
+## How To Make a Colour Scheme Generator Using The Color API
 
 # Introduction
 If you are a designer and/or a web developer, I'm sure you've racked your head deciding a colour scheme for your project. Don't you wish something could tell you exactly what colours you needed? Something that could find that perfect combination? I mean you could always use someone else's colour scheme generator but where's the fun in that? In this blog, I'll show you how I created (and deployed) such a thing myself, with the power of HTML, CSS, JSS and, most importantly, The Color API!

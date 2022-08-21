@@ -4,7 +4,7 @@
 
 Greetings everyone and welcome to a new blog! I'm writing this one as a part of Hashnode's #4articles4weeks challenge. Today I'm gonna be talking about how and why I decided to become a developer. My story stems from a very dark place but at the time of writing this blog, it's shooting for the sky!
 
-#Prelude
+# Prelude
 
 I have always been interested in computers and software. Back in 7th grade, I used to play games, edit photos and videos, make presentations and participate in inter-school competitions using those skills. As evident, I wasn't really much into programming. I was... quite average at it actually. But, I gradually had to put everything on pause as I entered 11th standard as I had to prepare for my college entrance exams. In those two years, I realized something. Something that made me decide that I wanted to a developer.
 

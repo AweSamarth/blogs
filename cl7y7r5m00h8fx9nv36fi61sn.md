@@ -1,4 +1,4 @@
-## How 'Touch Typing' Increased My Typing Speed to Over 100 WPM
+## How The 'Touch Typing' Technique Increased My Typing Speed to Over 100 WPM
 
 # Introduction
 A few days back, when I was scrolling through my Twitter feed, I noticed that threads about increasing typing speed get a lot of engagement, meaning that they resonate very well with the people. If you're reading this, you probably just proved me right lol. Being someone who cay type fast, I thought hey why don't I present my version of this hot topic. Well, here I am, doing exactly that! I'm sure you too will be able to increase your speed if you do what I did.

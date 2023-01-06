@@ -1,4 +1,4 @@
-# Creating Cool AI-powered Nextjs Projects with OpenAI's API
+# Creating Amazing AI-powered Nextjs Projects with OpenAI's API
 
 ## Introduction
 

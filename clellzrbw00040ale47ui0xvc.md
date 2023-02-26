@@ -32,7 +32,7 @@ In its initial days, Valist was supposed to be a decentralized version of GitHub
 
 Valist has 4 technologies at its foundation layer - Polygon, IPFS, Filecoin and The Graph. I'll give you a one-line explanation for all 4:
 
-1. IPFS (Inter-Planetary File System): It is a decentralized, peer-to-peer version of HTTP and it works on content-based addressing instead of location-based addressing. You can read more about it here.
+1. IPFS (Inter-Planetary File System): It is a decentralized, peer-to-peer version of HTTP and it works on content-based addressing instead of location-based addressing. You can read more about it [here](https://ipfs.tech/#how).
     
 2. Filecoin: It is a blockchain that guarantees data permanence on IPFS with the help of storage deals. Read more about it [here](https://docs.filecoin.io/).
     

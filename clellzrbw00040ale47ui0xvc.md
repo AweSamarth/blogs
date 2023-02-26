@@ -103,8 +103,6 @@ So, the correct question is actually why should you NOT publish to Valist and yo
     
 * Akash network should be a helpful protocol for providing Valist decentralized infrastructure
     
-* HyperPlay is a web3-focused game launcher. Another good potential partner that I would love see come to life.
-    
 * Biconomy helps in providing wallet-less logins and meta transactions. Although Valist already has the aforementioned features, I think Biconomy might be able to provide a better experience.
     
 

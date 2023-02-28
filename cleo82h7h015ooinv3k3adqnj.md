@@ -54,9 +54,9 @@ I am full of praise for LearnWeb3DAO, but that doesn't mean that it is the only 
 
 * [buildspace](https://buildspace.so/): The community and its founders have the notion of just "shipping" (building and deploying); no matter how much is done, no matter how bad it looks, and no matter how many people you think will like it. They promote building in public as many times, a product that you think will be liked by very few people ends up getting attention from a whole lot of people. This will end up giving you more motivation to build out your project to the final stage. Not to mention the funding you might receive from an investor if your project catches their eye.
     
-* **thirdweb**: This is more of a niche community but since I use a lot thirdweb's tooling, it has been a great experience for me to be a part of their server. Their devrel team is BEYOND amazing. Every time I had a doubt, they created a special thread for me in their support channel and debugged my code. Hats off to the team 🫡
+* [**thirdweb**](https://thirdweb.com/): This is more of a niche community but since I use a lot thirdweb's tooling, it has been a great experience for me to be a part of their server. Their devrel team is BEYOND amazing. Every time I had a doubt, they created a special thread for me in their support channel and debugged my code. Hats off to the team 🫡
     
-* **Valist**: Valist is actually a protocol, not a learning platform or community. However, the people there are very helpful and will do their best to resolve any development-related issues you have.
+* [**Valist**](https://valist.io/): Valist is actually a protocol, not a learning platform or community. However, the people there are very helpful and will do their best to resolve any development-related issues you have.
     
 
 ## Conclusion
